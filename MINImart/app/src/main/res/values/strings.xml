@@ -1,0 +1,89 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MINImart</string>
+
+    <string name="content_description">image</string>
+    <string name="login">LOGIN</string>
+    <string name="email_id_login">Email ID</string>
+    <string name="login_ed_password_hint">Password</string>
+    <string name="login_text_forget_password">Forgot Password?</string>
+    <string name="login_BTN">Login</string>
+    <string name="dont_have_an_account_text">Don\'t have an account?</string>
+    <string name="login_register_text"><u>Register</u></string>
+    <string name="email">Email</string>
+    <string name="todo">TODO</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="logo">Logo</string>
+
+
+    //Create account start
+    <string name="title_login">LOGIN</string>
+    <string name="et_hint_email_id">Email ID</string>
+    <string name="et_hint_password">Password</string>
+    <string name="lbl_forgot_password">Forgot Password?</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register"><u>Register</u></string>
+
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+
+    <string name="hint_last_name">Last name</string>
+    <string name="hint_first_name">First name</string>
+    <string name="et_hint_confirm_password">Confirm Password</string>
+
+    <string name="i_agree_to_the_terms_and_condition">I Agree To The <u> Terms &amp; Condition </u></string>
+    <string name="btn_lbl_register">Register</string>
+
+    <string name="already_have_an_account">Already have an account?</string>
+
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="terms_condition">terms_condition</string>
+    <string name="Register">REGISTER</string>
+    <string name="log_in">LOG IN</string>
+    <string name="i_agree_to_the">i Agree To The .</string>
+    // create account end
+
+    // error massage
+    <string name="err_msg_enter_first_name">Please enter first name.</string>
+    <string name="err_msg_enter_last_name">Please enter last name.</string>
+    <string name="err_msg_enter_email">Please enter email.</string>
+    <string name="err_msg_enter_password">Please enter password.</string>
+    <string name="err_msg_enter_confirm_password">Please enter confirm password.</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">Password and confirm password does not match.</string>
+
+    <string name="dialog_progress" />
+    <string name="foget_passowrd">FOGET PASSOWRD</string>
+    <string name="forget_password">FORGET PASSWORD</string>
+    <string name="enter_your_user_name_and_email_addres_weill_send_you_an_e_mail_to_reset_you_r_password">Enter your user name and email addres weill send you an e mail to reset you\'r password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="please_wait" />
+    <string name="home">HOME</string>
+    <string name="apple_watch">APPLE Watch</string>
+    <string name="apple_watch_rs_98000">apple_watch Rs.98000</string>
+    <string name="hand_bag_rs_4800">hand bag Rs.4800</string>
+    <string name="handbag_rs_4800">Handbag Rs.4800</string>
+    <string name="silver_ring_rs_1500">Silver Ring Rs.1500</string>
+    <string name="cap_rs_1800">Cap Rs.1800</string>
+    <string name="_40mm_or_44mm_case_over_30_percent_larger_display_retina_ltpo_oled_display_1000_nits_ion_x_glass_display_gps_and_gps_cellular_models_s5_sip_with_64_bit_dual_core_processor_w3_wireless_chip_digital_crown_with_haptic_feedback_optical_heart_sensor_high_and_low_heart_rate_notifications_and_irregular_heart_rhythm_notificationfootnote3_international_emergency_calling_footnote4_emergency_sos_5_and_fall_detection_water_resistant_50_metersfootnote6_lte_and_umts_footnote1_wi_fi_and_bluetooth_5_0_gps_gnss_compass_and_always_on_altimeter_50_percent_louder_speaker_footnote2_built_in_mic_32gb_capacity">40mm or 44mm case; over 30 percent larger display Retina LTPO OLED display, 1000 nits Ion-X glass display GPS and GPS + Cellular models S5 SiP with 64-bit dual-core processor; W3 wireless chip Digital Crown with haptic feedback Optical heart sensor High and low heart rate notifications and irregular heart rhythm notificationfootnote3 International emergency calling,footnote4 Emergency SOS,5 and fall detection Water resistant 50 metersfootnote6 LTE and UMTS,footnote1 Wi-Fi, and Bluetooth 5.0 GPS/GNSS, compass, and always-on altimeter 50 percent louder speaker;footnote2 built-in mic 32GB capacity</string>
+    <string name="adidas_shoes_rs_25000">Adidas Shoes Rs.25000</string>
+    <string name="sunglasses_rs_7800">Sunglasses Rs.7800</string>
+
+    <string name="dad">dad</string>
+    <string name="dudu">dudu</string>
+    <string name="baba">baba</string>
+    <string name="jaja">jaja</string>
+    <string name="cappp">cappp</string>
+    <string name="sun">sun</string>
+    <string name="bacaka">bacaka</string>
+    <string name="preview_image">Preview image</string>
+    <string name="watch_preview">watch Preview</string>
+    <string name="apple_watch_series_7">Apple Watch Series 7</string>
+    <string name="big_screen_huge_impact_the_challenge_was_to_create_a_bigger_display_while_barely_expanding_the_dimensions_of_the_watch_itself_to_do_so_the_display_was_completely_re_engineered_reducing_the_borders_by_40_allowing_for_more_screen_area_than_both_series_6_and_series_3_now_that_s_something_to_smile_about">Big screen. Huge impact. The challenge was to create a bigger display while barely expanding the dimensions of the watch itself. To do so, the display was completely re‑engineered reducing the borders by 40%, allowing for more screen area than both Series 6 and Series 3. Now that’s something to smile about</string>
+    <string name="rs_120000">Rs.120000</string>
+
+
+</resources>

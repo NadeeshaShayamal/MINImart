@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "2268850137",
+    "project_id": "minimart-ceb92",
+    "storage_bucket": "minimart-ceb92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2268850137:android:72dee3b7b5ca41f22f5bc8",
+        "android_client_info": {
+          "package_name": "com.example.minimart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2268850137-5egurvpo0o2i5irbbi5h26osuoc1djr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minimart",
+            "certificate_hash": "eb98aa80e2a3647cc32b2a29f3dfb7e89427f754"
+          }
+        },
+        {
+          "client_id": "2268850137-ua0vfkah4rn0fl80kn347uu7habupioh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbpBZrkK_yaKgim-ghhGXdTwwhlAhb0ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2268850137-ua0vfkah4rn0fl80kn347uu7habupioh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
